@@ -6,4 +6,9 @@ public class Logger : MonoBehaviour
     {
         Debug.Log(text);
     }
+	
+	public void LogError(string text)
+	{
+		Debug.LogError(text);
+	}
 }

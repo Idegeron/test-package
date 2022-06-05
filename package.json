@@ -1,5 +1,5 @@
 {
-  "name": "@Idegeron/com.idegeron.test-package",
+  "name": "com.idegeron.test-package",
   "displayName": "Test Package",
   "version": "0.1.0",
   "description": "Test Package Description",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-  "registry":"https://npm.pkg.github.com"
+  "registry":"https://npm.pkg.github.com/@Idegeron"
 },
   "repository": {
     "type": "git",
