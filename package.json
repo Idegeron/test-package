@@ -12,7 +12,8 @@
   "registry":"https://npm.pkg.github.com"
 },
   "repository": {
-    "url": "git:https://github.com/Idegeron/test-package.git."
+    "type": "git",
+    "url": "git+https://github.com/Idegeron/test-package.git"
   },
   "keywords": [],
   "license": "ISC",
