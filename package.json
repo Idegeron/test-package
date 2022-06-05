@@ -1,7 +1,23 @@
 {
- "name": "com.idegeron.test-package",
- "displayName": "Test Package",
- "version": "0.1.0",
- "description": "Test Package Description",
- "author": "Idegeron"
+  "name": "@Idegeron/com.idegeron.test-package",
+  "displayName": "Test Package",
+  "version": "0.1.0",
+  "description": "Test Package Description",
+  "author": "Idegeron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com"
+},
+  "repository": {
+    "url": "git:https://github.com/Idegeron/test-package.git."
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Idegeron/test-package/issues"
+  },
+  "homepage": "https://github.com/Idegeron/test-package#readme"
 }
