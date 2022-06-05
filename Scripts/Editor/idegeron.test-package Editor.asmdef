@@ -1,0 +1,18 @@
+{
+    "name": "idegeron.test-packageEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7cc08c9df92be9c4ca0312012a11f44d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

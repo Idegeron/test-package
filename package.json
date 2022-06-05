@@ -1,0 +1,7 @@
+{
+ "name": "com.idegeron.test-package",
+ "displayName": "Test Package",
+ "version": "0.1.0",
+ "description": "Test Package Description",
+ "author": "Idegeron"
+}
